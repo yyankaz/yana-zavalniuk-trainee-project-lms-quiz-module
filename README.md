@@ -3,7 +3,7 @@ This document performs object-oriented analysis and design. The UML class diagra
 
 **It is no allowed to to write code, but the model should be realistic for later implementation in a Spring Boot service.**
 
-![PNG UML diagram](docs/images/quiz-lms-yana-zavalniuk.png)
+![PNG UML diagram](quiz-lms-yana-zavalniuk.png)
 
 ## This is the "Quiz" module inside LMS platform.
 It:
